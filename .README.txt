@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+<head>
 stuck with the code but still loved to learn
-=======
-Easy to learn!
->>>>>>> html-assignment
+</head>
+
