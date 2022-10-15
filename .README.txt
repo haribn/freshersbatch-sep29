@@ -1,11 +1,9 @@
 <head>
 stuck with the code but still loved to learn
-<<<<<<< HEAD
 <title>
 assignment
 </title>
-=======
 easy to learn
->>>>>>> css-assignments
+css-assignments and also js
 </head>
 
