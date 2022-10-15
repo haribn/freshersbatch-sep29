@@ -3,7 +3,12 @@ stuck with the code but still loved to learn
 <title>
 assignment
 </title>
+<<<<<<< HEAD
 easy to learn
 css-assignments and also js
+=======
+easy to learn css-assignments
+>>>>>>> js-assignments
 </head>
-
+<body>
+</body>
